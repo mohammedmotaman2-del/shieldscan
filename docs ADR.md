@@ -17,3 +17,26 @@ API keys unavailable for client organizations.
 
 ADR-006
 Finding types are immutable and never renamed.
+
+ADR-008
+
+ShieldScan follows a phased evolution.
+
+Phase 1
+External Tool Integration
+
+Phase 2
+Risk Prioritization
+
+Phase 3
+Attack Surface Management
+
+Phase 4
+Internal Scanning
+
+Phase 5
+Custom Scan Engine
+
+Status
+
+LOCKED
