@@ -47,3 +47,15 @@ Not Allowed:
 - Auth redesign
 - Multi-tenant redesign
 - Billing redesign
+
+Locked Product Direction
+
+ShieldScan is NOT a standalone vulnerability scanner.
+
+ShieldScan is a management platform for:
+
+• VAPT Companies
+• MSSPs
+• Cybersecurity Consultancies
+
+Future phases MUST preserve this direction.
